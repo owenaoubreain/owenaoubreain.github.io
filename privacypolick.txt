@@ -1,0 +1,115 @@
+we are an Android Developer Group trying to provide entertainment apps and Utility tools to make day to day life easy.
+These apps are available for free to download from play store.
+To monetise the app we use advertisement inside our app.
+We personally do not take any information of our user but the Ad-network which we commonly use in our apps to monetise may fetch your information.
+The information fetch by ad-network might be useful to check and not to display the apps which are already installed in your mobile.
+Our apps are safe to use and based on the application type we might take some approval for using mobile items. For example : mobile camera, flash light, speech to text , mobile gallery, etc.
+This app only user-friendly has been developed, there is no real form of giving or receiving any payment to anyone. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
+Thank you for your understanding. Make sure to check our privacy policy frequently, since it is subjected to change, and your continued use of the site is conditional to your acceptance of any modifications here. You agree to the terms and conditions of this privacy policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Scratch To Win cash unless otherwise defined in this Privacy Policy.
+This app only user-friendly has been developed, there is no real form of giving or receiving any payment to anyone. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
+Thank you for your understanding. Make sure to check our privacy policy frequently, since it is subjected to change, and your continued use of the site is conditional to your acceptance of any modifications here. You agree to the terms and conditions of this privacy policy.
+
+whats Track (“Whats Track,” “we,” or “us”) are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, disclosure, and protection of information that is collected through our Service, as well as your choices regarding the collection and use of information.
+
+How We Collect and Use Information
+We collect the following types of information about you:
+
+Registration and Profile Information: When you create an account, we may collect your personal information such as your name, your birthday, your gender and if you chose to have a photo associated with your account. Your gender and your birthday helps us curate content delivered to you. We may also collect billing information when you sign up for Premium service. If you remove your account from Whats Track, we destroy all data.
+
+ 
+
+Sharing of Your Information
+Personal Information: We may share your personal information with third parties outside the Company and its controlled subsidiaries and affiliates in some circumstances, including:
+
+We share your personal information, including name and your star-sign with others within your Whats Track friends.
+We may share your personal information with our third-party business partners, vendors and consultants who perform services on our behalf or who help us provide our Services, such as accounting, managerial, technical, marketing or analytic services.
+We may at any time buy or sell/divest the company, or any combination of its products, services, assets and/or businesses. Personal information such as customer names and phone number, and other user information related to the Service will likely be one of the items transferred in these types of transactions. We may also share, transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions or similar transactions or proceedings.
+Except as described above, we will not disclose personal information to third parties (including law enforcement, other government entity, or civil litigant; excluding our subcontractors) unless required to do so by law or subpoena or if in our sole discretion, we determine it is necessary to (a) conform to the law, comply with legal process, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property, or personal safety of Whats Track, our Users or others.
+How we protect your information
+whats Track cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in
+User Provided Information
+The Application obtains the information you provide when you download and register the Application. When you register with us and use the Application, you generally provide (a) your name, email address, phone number, password and your educational interests; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) information you enter into our system when using the Application, such as topics played, contests participated in and type of rewards claimed.
+
+
+We may use the information you provided us to contact you from time to time to provide you with important information, required notices and marketing promotions. We will ask you when we need more information that personally identifies you (personal information) or allows us to contact you.
+
+Information Collection and Use
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+Google Play Services
+AdMob
+Firebase Analytics
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analysing how our Service is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+We collect following information:
+
+When you access our services online, our web servers automatically save your IP-address, access time, pages visited, the content viewed or requested, browser or application type, language and other such information.
+
+When you create an account, make a purchase, request services, interact with us, we may ask for information such as your name, email address, phone number, street address, user names and passwords, information relating to your device such as unique device identifier etc, and other such information.
+
+When you use our products, our products may contact our servers periodically, for example to check for updates, to check for the license state, to send us information relating to the product, the product configuration, the device type, the device model, the device OS version, the device configuration etc.
+
+We maintain records of your purchases, the content you have provided to us, the content our products sent to us, the products and services provided to you etc.
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilising my Service, the time and date of your use of the Service, and other statistics.
+
+Disclosing Information
+
+We will not disclose user information to other parties, unless we obtain consent to do so, or we are required by law to do so.
+
+We will not sell user lists or user information to other parties.
+
+
+Ensuring Accuracy
+
+We will make reasonable efforts to ensure that user information is accurate and complete where it may be used to make a decision about the user.
+
+Users may request correction to their personal information in order to ensure its accuracy and completeness. A request to correct personal information must provide sufficient detail to identify the personal information and the correction being sought.
+
+If the personal information is demonstrated to be inaccurate or incomplete, we will correct the information as required.
+
+Using Information
+
+We will use collected information where necessary:
+
+to fulfill the purposes identified at the time of collection.
+
+to investigate our system problems, improve system performance.
+
+to investigate our product problems and improve the product.
+
+to know our products work good or bad in a specific device type, in a specific device model, in a specific device OS version, in a specific device configuration, in a specific product configuration etc, so that we can provide better services to users.
+
+to send response to the user if needed.
+
+to conduct user surveys in order to enhance the provision of our services.
+
+to contact our users directly about products and services that may be of interest.
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Security
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+We are committed to protecting the privacy of children. We do not knowingly collect personal information from children under the age of 13. . If you have received any information from this app, then it is Only Static. We are not fetching any of your details. These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided me with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that We will be able to do necessary actions.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us opsiyin99012@protonmail.com
+BeeApp may from time to time change this Policy.
+we recommend that you re-visit this Policy from time to time to know the newest version of this Policy.
